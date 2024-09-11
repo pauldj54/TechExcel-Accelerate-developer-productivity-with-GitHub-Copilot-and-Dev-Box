@@ -1,3 +1,5 @@
 # This is a comment
 # The '*' pattern refers to all files in the repository
 *       @pauldj54
+
+/Application/   @pauldj54 
