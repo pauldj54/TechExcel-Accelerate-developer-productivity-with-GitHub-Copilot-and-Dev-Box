@@ -34,7 +34,7 @@ namespace RazorPagesTestSample
                     }
                 }
             }
-
+            // Run the web application
             host.Run();
         }
 
